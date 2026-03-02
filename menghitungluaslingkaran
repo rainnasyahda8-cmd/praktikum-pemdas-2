@@ -13,4 +13,3 @@ void input(){
 float luaskingkaran(int b){
     return phi * b * b;
 }
-int jumalah()
