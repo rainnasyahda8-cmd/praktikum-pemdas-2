@@ -12,5 +12,5 @@ void input(){
     cin >> r;
 }
 int luaskingkaran(float a,float b){
-    return 
+    return a * r^2;
 }
