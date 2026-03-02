@@ -11,6 +11,6 @@ void input(){
     cin >> r;
 }
 float luaskingkaran(int b){
-    return phi *b*b;
+    return phi*b*b;
 }
 
